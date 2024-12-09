@@ -4,7 +4,7 @@ I'm making a puzzle game about Petri Nets!
 
 ## Demo
 
-TODO
+[Play on github here](https://htmlpreview.github.io/?https://github.com/JonoChadwell/PetriPuzzler/blob/develop/deploy/petri_demo.html)
 
 ## Dependencies
 

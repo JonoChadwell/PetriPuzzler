@@ -1,11 +1,15 @@
-# Wander
+# PetriPuzzler
 
-What if players could wander about, discover each-other, and seamlessly transition between single and multi player on a shared world?
-
-Wander might eventually attempt to accomplish this.
+I'm making a puzzle game about Petri Nets!
 
 ## Demo
 
-An early build is available served via github here:
+TODO
 
-https://htmlpreview.github.io/?https://github.com/JonoChadwell/WanderDemo/blob/develop/deploy/wander_demo.html
+## Dependencies
+
+This project depends on Raygui version 3.2. Place a copy in a folder named "libraries/" to compile.
+
+This project depends on Raylib version 4.0. Place a copy in C:/raylib to compile.
+
+This project depends on emscripten to compile. I have no recollection of how I set this up -- good luck.
